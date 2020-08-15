@@ -1,0 +1,383 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #00c6ff;
+}
+
+ul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.8);
+  margin: 0;
+  display: flex;
+}
+
+ul li {
+  position: relative;
+  list-style: none;
+  width: 8px;
+  height: 250px;
+  border-radius: 5px;
+  background: white;
+  box-shadow: -2px 0 1px rgba(0, 0, 0, 1);
+  overflow: hidden;
+  animation: animate 30s linear infinite;
+}
+
+ul li:nth-child(n + 1) {
+  animation-delay: 1s;
+}
+ul li:nth-child(n + 2) {
+  animation-delay: 2s;
+}
+ul li:nth-child(n + 3) {
+  animation-delay: 3s;
+}
+ul li:nth-child(n + 4) {
+  animation-delay: 4s;
+}
+ul li:nth-child(n + 5) {
+  animation-delay: 5s;
+}
+ul li:nth-child(n + 6) {
+  animation-delay: 6s;
+}
+ul li:nth-child(n + 7) {
+  animation-delay: 7s;
+}
+ul li:nth-child(n + 8) {
+  animation-delay: 8s;
+}
+ul li:nth-child(n + 9) {
+  animation-delay: 9s;
+}
+ul li:nth-child(n + 10) {
+  animation-delay: 10s;
+}
+ul li:nth-child(n + 11) {
+  animation-delay: 11s;
+}
+ul li:nth-child(n + 12) {
+  animation-delay: 12s;
+}
+ul li:nth-child(n + 13) {
+  animation-delay: 13s;
+}
+ul li:nth-child(n + 14) {
+  animation-delay: 14s;
+}
+ul li:nth-child(n + 15) {
+  animation-delay: 15s;
+}
+ul li:nth-child(n + 16) {
+  animation-delay: 16s;
+}
+ul li:nth-child(n + 17) {
+  animation-delay: 17s;
+}
+ul li:nth-child(n + 18) {
+  animation-delay: 18s;
+}
+ul li:nth-child(n + 19) {
+  animation-delay: 19s;
+}
+ul li:nth-child(n + 20) {
+  animation-delay: 20s;
+}
+ul li:nth-child(n + 21) {
+  animation-delay: 21s;
+}
+ul li:nth-child(n + 22) {
+  animation-delay: 22s;
+}
+ul li:nth-child(n + 23) {
+  animation-delay: 23s;
+}
+ul li:nth-child(n + 24) {
+  animation-delay: 24s;
+}
+ul li:nth-child(n + 25) {
+  animation-delay: 25s;
+}
+ul li:nth-child(n + 26) {
+  animation-delay: 26s;
+}
+ul li:nth-child(n + 27) {
+  animation-delay: 27s;
+}
+ul li:nth-child(n + 28) {
+  animation-delay: 28s;
+}
+ul li:nth-child(n + 29) {
+  animation-delay: 29s;
+}
+ul li:nth-child(n + 30) {
+  animation-delay: 30s;
+}
+ul li:nth-child(n + 31) {
+  animation-delay: 31s;
+}
+ul li:nth-child(n + 32) {
+  animation-delay: 32s;
+}
+ul li:nth-child(n + 33) {
+  animation-delay: 33s;
+}
+ul li:nth-child(n + 34) {
+  animation-delay: 34s;
+}
+ul li:nth-child(n + 35) {
+  animation-delay: 35s;
+}
+ul li:nth-child(n + 36) {
+  animation-delay: 36s;
+}
+ul li:nth-child(n + 37) {
+  animation-delay: 37s;
+}
+ul li:nth-child(n + 38) {
+  animation-delay: 38s;
+}
+ul li:nth-child(n + 39) {
+  animation-delay: 39s;
+}
+ul li:nth-child(n + 40) {
+  animation-delay: 40s;
+}
+ul li:nth-child(n + 41) {
+  animation-delay: 41s;
+}
+ul li:nth-child(n + 42) {
+  animation-delay: 42s;
+}
+ul li:nth-child(n + 43) {
+  animation-delay: 43s;
+}
+ul li:nth-child(n + 44) {
+  animation-delay: 44s;
+}
+ul li:nth-child(n + 45) {
+  animation-delay: 45s;
+}
+ul li:nth-child(n + 46) {
+  animation-delay: 46s;
+}
+ul li:nth-child(n + 47) {
+  animation-delay: 47s;
+}
+ul li:nth-child(n + 48) {
+  animation-delay: 48s;
+}
+ul li:nth-child(n + 49) {
+  animation-delay: 49s;
+}
+ul li:nth-child(n + 50) {
+  animation-delay: 50s;
+}
+ul li:nth-child(n + 51) {
+  animation-delay: 51s;
+}
+ul li:nth-child(n + 52) {
+  animation-delay: 52s;
+}
+ul li:nth-child(n + 53) {
+  animation-delay: 53s;
+}
+ul li:nth-child(n + 54) {
+  animation-delay: 54s;
+}
+ul li:nth-child(n + 55) {
+  animation-delay: 55s;
+}
+ul li:nth-child(n + 56) {
+  animation-delay: 56s;
+}
+ul li:nth-child(n + 57) {
+  animation-delay: 57s;
+}
+ul li:nth-child(n + 58) {
+  animation-delay: 58s;
+}
+ul li:nth-child(n + 59) {
+  animation-delay: 59s;
+}
+ul li:nth-child(n + 60) {
+  animation-delay: 60s;
+}
+ul li:nth-child(n + 61) {
+  animation-delay: 61s;
+}
+ul li:nth-child(n + 62) {
+  animation-delay: 62s;
+}
+ul li:nth-child(n + 63) {
+  animation-delay: 63s;
+}
+ul li:nth-child(n + 64) {
+  animation-delay: 64s;
+}
+ul li:nth-child(n + 65) {
+  animation-delay: 65s;
+}
+ul li:nth-child(n + 66) {
+  animation-delay: 66s;
+}
+ul li:nth-child(n + 67) {
+  animation-delay: 67s;
+}
+ul li:nth-child(n + 68) {
+  animation-delay: 68s;
+}
+ul li:nth-child(n + 69) {
+  animation-delay: 69s;
+}
+ul li:nth-child(n + 70) {
+  animation-delay: 70s;
+}
+ul li:nth-child(n + 71) {
+  animation-delay: 71s;
+}
+ul li:nth-child(n + 72) {
+  animation-delay: 72s;
+}
+ul li:nth-child(n + 73) {
+  animation-delay: 73s;
+}
+ul li:nth-child(n + 74) {
+  animation-delay: 74s;
+}
+ul li:nth-child(n + 75) {
+  animation-delay: 75s;
+}
+ul li:nth-child(n + 76) {
+  animation-delay: 76s;
+}
+ul li:nth-child(n + 77) {
+  animation-delay: 77s;
+}
+ul li:nth-child(n + 78) {
+  animation-delay: 78s;
+}
+ul li:nth-child(n + 79) {
+  animation-delay: 79s;
+}
+ul li:nth-child(n + 80) {
+  animation-delay: 80s;
+}
+ul li:nth-child(n + 81) {
+  animation-delay: 81s;
+}
+ul li:nth-child(n + 82) {
+  animation-delay: 82s;
+}
+ul li:nth-child(n + 83) {
+  animation-delay: 83s;
+}
+ul li:nth-child(n + 84) {
+  animation-delay: 84s;
+}
+ul li:nth-child(n + 85) {
+  animation-delay: 85s;
+}
+ul li:nth-child(n + 86) {
+  animation-delay: 86s;
+}
+ul li:nth-child(n + 87) {
+  animation-delay: 87s;
+}
+ul li:nth-child(n + 88) {
+  animation-delay: 88s;
+}
+ul li:nth-child(n + 89) {
+  animation-delay: 89s;
+}
+ul li:nth-child(n + 90) {
+  animation-delay: 90s;
+}
+ul li:nth-child(n + 91) {
+  animation-delay: 91s;
+}
+ul li:nth-child(n + 92) {
+  animation-delay: 92s;
+}
+ul li:nth-child(n + 93) {
+  animation-delay: 93s;
+}
+ul li:nth-child(n + 94) {
+  animation-delay: 94s;
+}
+ul li:nth-child(n + 95) {
+  animation-delay: 95s;
+}
+ul li:nth-child(n + 96) {
+  animation-delay: 96s;
+}
+ul li:nth-child(n + 97) {
+  animation-delay: 97s;
+}
+ul li:nth-child(n + 98) {
+  animation-delay: 98s;
+}
+ul li:nth-child(n + 99) {
+  animation-delay: 99s;
+}
+ul li:nth-child(n + 100) {
+  animation-delay: 100s;
+}
+
+ul li:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 160px;
+  top: 0;
+  left: 0;
+  background: black;
+}
+
+ul li::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  bottom: 0;
+  left: 0;
+  background: purple;
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(36deg);
+  }
+  20% {
+    transform: rotate(72deg);
+  }
+  30% {
+    transform: rotate(108deg);
+  }
+  40% {
+    transform: rotate(144deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  60% {
+    transform: rotate(216deg);
+  }
+  70% {
+    transform: rotate(252deg);
+  }
+  80% {
+    transform: rotate(288deg);
+  }
+  90% {
+    transform: rotate(324deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
