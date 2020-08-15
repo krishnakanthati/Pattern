@@ -1,16 +1,23 @@
 {
   "name": "pattern",
-  "homepage": "https://krishnakanthati.github.io/Pattern",
   "version": "1.0.0",
-  "description": "",
+  "description": "Its a cool css pattern.",
   "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnakanthati/Pattern.git"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "gh-pages": "^3.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/krishnakanthati/Pattern/issues"
+  },
+  "homepage": "https://github.com/krishnakanthati/Pattern#readme"
 }
